@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "draw2img"
+description = "A simple web UI for interactive text-guided image to image generation, intended for any age and level of expertise."
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.7"
+dependencies = [
+    "accelerate",
+    "diffusers",
+    "fire",
+    "numpy",
+    "pillow",
+    "pydantic",
+    "safetensors",
+    "transformers",
+    "websockets"
+]
+
+keywords = ["stable diffusion", "SDXL-Turbo", "web UI", "img2img", "draw2img"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python",
+]
+version = "0.0.1"
+
+[project.urls]
+Homepage = "https://github.com/GradientSurfer/Draw2Img"
+
+[tool.hatch.build.targets.wheel]
+packages = ["draw2img"]
