@@ -2,9 +2,9 @@
 
 A simple web UI for interactive *text-guided image to image generation*, intended for any age and level of expertise.
 
-<img src="demos/demo4.gif" height="350px"></img>
-<img src="demos/demo1.gif" height="350px"></img>
-<img src="demos/demo3.gif" height="350px"></img>
+<img src="demos/demo4.gif" width="33%"></img>
+<img src="demos/demo1.gif" width="33%"></img>
+<img src="demos/demo3.gif" width="33%"></img>
 
 # Features
 
