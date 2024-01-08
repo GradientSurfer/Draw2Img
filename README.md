@@ -1,6 +1,6 @@
 # Draw2Img
 
-A simple web UI for interactive *text-guided image to image generation*, intended for any age and level of expertise.
+A simple web UI for interactive *text-guided image to image generation*, intended for any age and skill level.
 
 <img src="demos/demo4.gif" width="48%"></img>
 <img src="demos/demo1.gif" width="48%"></img>
@@ -123,7 +123,7 @@ npm run dev
 
 ### Container (Docker/Podman)
 
-You can avoid installing `node` and `npm` on your host machine by using a container image with the UI development toolchain (`node:lts-slim`).
+You can avoid installing `node` and `npm` on your host machine by using a container image that already includes the UI toolchain (`node:lts-slim`).
 
 ```bash
 cd draw2img/ui
