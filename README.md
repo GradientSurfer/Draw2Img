@@ -160,3 +160,7 @@ If you're an advanced user looking for more functionality, other projects like [
 [MIT](LICENSE)
 
 See the [Stability AI Non-Commercial License for SDXL-Turbo](https://github.com/Stability-AI/generative-models/blob/main/model_licenses/LICENSE-SDXL-Turbo) and their [acceptable use policy](https://stability.ai/use-policy).
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GradientSurfer/Draw2Img&type=Date)](https://star-history.com/#GradientSurfer/Draw2Img&Date)
