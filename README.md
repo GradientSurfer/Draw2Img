@@ -30,11 +30,10 @@ Hardware:
 - CPU only environments are supported but image generation will be significantly slower
 
 Operating System:
-- Linux (tested)
-- Windows & Mac (should work in theory)
+- Linux, Mac, or Windows
 
 Software:
-- Python >= 3.7
+- Python >= 3.10
 
 Browser:
 - any modern browser (Firefox, Chrome, Edge, Safari, etc)
