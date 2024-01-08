@@ -5,6 +5,18 @@ A simple web UI for interactive *text-guided image to image generation*, intende
 <img src="demos/demo4.gif" width="48%"></img>
 <img src="demos/demo1.gif" width="48%"></img>
 
+<figure style="text-align:center;">
+    <img src="gallery/canvas1.png" alt="ocean wave, sunset, rays of light, photograph, 35mm digital, 4k" />
+    <figcaption>
+        <u>Community Showcase</u>
+        <br>
+        <i>"ocean wave, sunset, rays of light, photograph, 35mm digital, 4k"</i>
+        <br>
+        <br>
+        <b>Did you make something cool with Draw2Img? Showcase your artwork here!</b>
+    </figcaption>
+</figure>
+
 # Features
 
 - web based UI, interactive canvas with basic paint tool & color picker
