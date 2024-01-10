@@ -210,8 +210,8 @@ export default {
     this.mru_colors.unshift("#000")
   },
   mounted() {
-
-    this.ws = new WebSocket(`ws://${window.location.hostname}:8079`);
+    const ws_port = parseInt(window.location.port) - 1
+    this.ws = new WebSocket(`ws://${window.location.hostname}:${ws_port}`);
     const ws = this.ws;
 
     this.timer = window.setInterval(() => {
