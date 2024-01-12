@@ -7,7 +7,7 @@ name = "draw2img"
 description = "A simple web UI for interactive text-guided image to image generation, intended for any age and skill level."
 readme = "README.md"
 license = {file = "LICENSE"}
-requires-python = ">=3.7"
+requires-python = ">=3.10,<3.12"
 dependencies = [
     "accelerate",
     "diffusers",
