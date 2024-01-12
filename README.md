@@ -33,7 +33,7 @@ Operating System:
 - Linux, Mac, or Windows
 
 Software:
-- Python >= 3.10
+- Python >= 3.10 and <= 3.11
 
 Browser:
 - any modern browser (Firefox, Chrome, Edge, Safari, etc)
