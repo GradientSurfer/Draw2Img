@@ -9,15 +9,15 @@ readme = "README.md"
 license = {file = "LICENSE"}
 requires-python = ">=3.10,<3.12"
 dependencies = [
-    "accelerate",
-    "diffusers",
-    "fire",
-    "numpy",
-    "pillow",
-    "pydantic",
-    "safetensors",
-    "transformers",
-    "websockets"
+    "accelerate==0.30.1",
+    "diffusers==0.28.2",
+    "fire==0.6.0",
+    "numpy==1.26.4",
+    "pillow==10.3.0",
+    "pydantic==2.7.3",
+    "safetensors==0.4.3",
+    "transformers==4.41.2",
+    "websockets==12.0"
 ]
 
 keywords = ["stable diffusion", "SDXL-Turbo", "web UI", "img2img", "draw2img"]
@@ -26,7 +26,7 @@ classifiers = [
   "Development Status :: 4 - Beta",
   "Programming Language :: Python",
 ]
-version = "0.0.1"
+version = "0.0.4"
 
 [project.urls]
 Homepage = "https://github.com/GradientSurfer/Draw2Img"
